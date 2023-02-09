@@ -11,7 +11,7 @@
 
 
 2) Why did you choose the strategy that you chose?
-- Maybe because the patient take all parameters of a model of patient by the ID and employee only
+- May because the patient take all parameters of a model of patient by the ID and employee only
   take a String department parameter from the DTO model.
 
 3) What are the pros and cons of the strategies you chose for creating these routes?
