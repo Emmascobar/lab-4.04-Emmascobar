@@ -1,6 +1,6 @@
 
 # LABORATORY 4.04 - QUESTIONS:
-* ALUMNO: [Emmanuel Escobar](https://github.com/Emmascobar).
+* Student: [Emmanuel Escobar](https://github.com/Emmascobar).
 -------------------------------------------------------------
 
 1) Did you use the same type of route to update patient information and to update an employee department?
